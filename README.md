@@ -1,3 +1,7 @@
+# ARCHIVED
+
+This project is no longer maintained and will not receive any further updates. If you plan to continue using it, please be aware that future security issues will not be addressed.
+
 <h1>WPS-Ilwis Bridge</h1>
 Wiki page: https://wiki.52north.org/bin/view/Projects/GSoC2015WpsIlwisBridge <br>
 Introductory blogpost: http://blog.52north.org/2015/05/27/wps-ilwis-bridge/ <br>
